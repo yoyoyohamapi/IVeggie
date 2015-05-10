@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 登录部分颜色 -->
+    <color name="log_reg_bkg">#e9e6cb</color>
+</resources>

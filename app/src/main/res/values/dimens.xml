@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 间距大小 -->
+    <dimen name="mini_dist">5dp</dimen>
+    <dimen name="small_dist">15dp</dimen>
+    <dimen name="middle_dist">30dp</dimen>
+    <dimen name="large_dist">50dp</dimen>
+
+    <!-- 常用字号 -->
+    <dimen name="mini_font">14sp</dimen>
+    <dimen name="small_font">18sp</dimen>
+    <dimen name="middle_font">24sp</dimen>
+    <dimen name="large_font">50dp</dimen>
+
+    <!-- 常用 -->
+    <dimen name="bandage_height">43dp</dimen>
+    <dimen name="corner_radius">10dp</dimen>
+</resources>
